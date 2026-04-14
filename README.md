@@ -30,7 +30,7 @@ current_focus:
 past_roles:
   - Backend Intern at BuildInBharat Tech
 projects:
-  - RTC Server (Real-Time Collaboration)
+  - RTC Server: Real-Time Collaboration plugin for Unity
   - Blog_SDC: Blog Media Application in Django
   - Ghost of Luna: 2D Platformer
 technical_background:
